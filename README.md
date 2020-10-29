@@ -216,6 +216,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Queue
+
+| #    | Title                                                                                                           | Solution                                                                      | Time      | Space     | Difficulty | Tag                                            | Note |
+| ---- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------- | --------- | ---------- | ---------------------------------------------- | ---- |
+| 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                      | [C++](./C++/Number-of-Recent-Calls.cpp )          | _O(1)_    | _O(1)_ | Easy     | Queue, Sliding Window 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Tree
 
 | #    | Title                                                                                                           | Solution                                                                                                         | Time        | Space       | Difficulty | Tag                                            | Note |
@@ -430,6 +442,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 
 ## Contributors
 
+<<<<<<< HEAD
 | Name                                                                                                                                                                                               | Country      | Programming Language | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef, LeetCode...)</sup>                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gourav R](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">                                                                     | India        | Java                 | [codedecks](https://www.youtube.com/c/codedecks/) <br> [Hackerrank](https://www.hackerrank.com/gouravrusiya786) <br> [LeetCode](https://leetcode.com/rusiya/)                                                               |
@@ -461,6 +474,30 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Anushka Verma](https://github.com/verma-anushka) <br> <img src="https://avatars0.githubusercontent.com/u/46157435?s=400&u=aa3db9cf25b4a9644a16607d0c8bd6c98763a62d&v=4" width="100" height="100"> | India        | C++                  | [Portfolio](https://verma-anushka.github.io/anushkaverma/) <br> [LeetCode](https://leetcode.com/anushka_verma/)                                                                                                             |
 | [James H](https://github.com/HoangJames) <br> <img src="https://avatars2.githubusercontent.com/u/15057250?s=460&v=4" width="100" height="100">              | United Kingdom | C++                 | [Github](https://github.com/HoangJames)                                                                                                                                                                                         |
 | [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
+=======
+| Name                                                                                                                                             | Country | Programming Language | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef, LeetCode...)</sup>                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Gourav R](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">                   | India   | Java                 | [codedecks](https://www.youtube.com/c/codedecks/) <br> [Hackerrank](https://www.hackerrank.com/gouravrusiya786) <br> [LeetCode](https://leetcode.com/rusiya/) |
+| [Dima Vishnevetsky](https://github.com/dimshik100) <br> <img src="https://github.com/dimshik100.png" width="100" height="100">                   | Israel   | JavaScript                 | [Twitter](https://twitter.com/dimshik100) <br> [Facebook](https://www.facebook.com/dimshik) |
+| [Anuj Sharma](https://github.com/Optider/) <br> <img src="https://github.com/Optider.png" width="100" height="100">                              | India   | Python               | [Github](https://github.com/Optider)                                                                          |
+| [Lokendra Bohra](https://github.com/lokendra1704/) <br> <img src="https://github.com/lokendra1704.png" width="100" height="100">                 | India   | Python               | [Leetcode](https://t.co/u0OByxhcHA) <br> [Hackerrank](https://www.hackerrank.com/lokendra17)                                                                          |
+| [Yuri Spiridonov](https://github.com/YuriSpiridonov) <br> <img src="https://github.com/YuriSpiridonov.png" width="100" height="100">             | Russia  | Python               | [Twitter](https://twitter.com/YuriSpiridonov)<br>[Leetcode](https://leetcode.com/yurispiridonov/)<br>[Hackerrank](https://www.hackerrank.com/YuriSpiridonov)          |
+| [Naveen Kashyap](https://github.com/naveenkash) <br> <img src="https://github.com/naveenkash.png" width="100" height="100">                      | India   | Javascript           | [Twitter](https://twitter.com/naveen_kashyapp)<br>[Leetcode](https://leetcode.com/naveenkash/)                                                                        |
+| [Rudra Mishra](https://github.com/Rudra407) <br> <img src="https://github.com/Rudra407.png" width="100" height="100">                            | India   | C++                  | [Twitter](https://twitter.com/ruDra_Mishra407)<br>[Leetcode](https://leetcode.com/rudramishra/)                                                                       |
+| [Sachin Singh Negi](https://github.com/sachinnegi) <br> <img src="https://github.com/sachinnegi.png" width="100" height="100">                   | India   | Python               | [Twitter](https://twitter.com/SachinSinghNe17)<br>[Leetcode](https://leetcode.com/negisachin688/)<br>[Hackerrrak](https://www.hackerrank.com/negisachin688)           |
+| [Girish Thatte](https://github.com/girishgr8/) <br> <img src="https://github.com/girishgr8.png" width="100" height="100">                        | India   | Java                 | [Leetcode](https://leetcode.com/girish13/) <br> [Hackerrank](https://www.hackerrank.com/procoder_13) <br> [Codechef](https://www.codechef.com/procoder_13)            |
+| [Kevin Chittilapilly](https://github.com/KevinChittilapilly) <br> <img src="https://github.com/KevinChittilapilly.png" width="100" height="100"> | India   | Java                 | [Leetcode](https://leetcode.com/being_kevin/) <br> [Hackerrank](https://www.hackerrank.com/ckevinvarghese11) <br> [Kaggle](https://www.kaggle.com/kevinchittilapilly) |
+| [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
+| [Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100">          | India   | C++                  | [Leetcode](https://leetcode.com/avi_002/) |
+| [Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">                   | India   | C++                  | [Leetcode](https://leetcode.com/ishikagoel5628/) |
+| [Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">                                     | India   | Java                 | [Github](https://github.com/ifenil) |                                
+| [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
+| [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
+| [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
+| [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++         | [Leetcode](https://leetcode.com/_tarun/) |
+
+
+>>>>>>> 96056e78390e3d86dff75045e7214c35e67f85a9
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
